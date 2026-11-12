@@ -1,0 +1,10 @@
+D:\vs26\PizzaProject\bin\Debug\PizzaProject.exe.config
+D:\vs26\PizzaProject\bin\Debug\PizzaProject.exe
+D:\vs26\PizzaProject\bin\Debug\PizzaProject.pdb
+D:\vs26\PizzaProject\obj\Debug\PizzaProject.csproj.AssemblyReference.cache
+D:\vs26\PizzaProject\obj\Debug\PizzaProject.Form1.resources
+D:\vs26\PizzaProject\obj\Debug\PizzaProject.Properties.Resources.resources
+D:\vs26\PizzaProject\obj\Debug\PizzaProject.csproj.GenerateResource.cache
+D:\vs26\PizzaProject\obj\Debug\PizzaProject.csproj.CoreCompileInputs.cache
+D:\vs26\PizzaProject\obj\Debug\PizzaProject.exe
+D:\vs26\PizzaProject\obj\Debug\PizzaProject.pdb
